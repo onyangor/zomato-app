@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Zomato Food Ordering Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack food ordering web application inspired by Zomato, developed as part of my Full Stack Web Development (MERN Stack) training. The application demonstrates modern web development concepts including frontend development, backend integration, database management, and responsive user interface design.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+The application allows users to browse food items, view restaurant information, manage orders, and interact with a dynamic web interface designed to simulate a real-world food delivery platform.
 
-### `npm start`
+This project helped strengthen my understanding of full-stack application architecture, component-based development, database integration, and user experience design.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* User-friendly and responsive interface
+* Restaurant and food item browsing
+* Dynamic content rendering
+* State management and component interaction
+* Backend API integration
+* Database-driven application structure
+* Modern React development practices
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend
 
-### `npm run build`
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Backend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Node.js
+* Express.js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Database
 
-### `npm run eject`
+* MongoDB
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Development Tools
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Git
+* GitHub
+* Visual Studio Code
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Learning Outcomes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Through this project, I gained practical experience in:
 
-## Learn More
+* Building full-stack web applications
+* React component architecture
+* API development and consumption
+* MongoDB database integration
+* State management concepts
+* Responsive web design
+* Version control using Git and GitHub
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Project Status
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+✅ Completed
 
-### Code Splitting
+This project was successfully completed as part of the Edureka Full Stack Web Development Program and serves as a demonstration of my understanding of MERN Stack development principles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Future Improvements
 
-### Analyzing the Bundle Size
+* User authentication and authorization
+* Payment gateway integration
+* Order tracking functionality
+* Restaurant management dashboard
+* Mobile application integration
+* Performance optimization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
+Ray Beckham Onyango Otieno
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Computer Science Graduate | MERN Stack Developer
 
-### Advanced Configuration
+GitHub Profile:
+https://github.com/onyangor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Project Repository:
+https://github.com/onyangor/zomato-app
 
-### Deployment
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was completed as part of the Edureka Full Stack Web Development Program. While developed during guided training, the project provided hands-on experience in implementing full-stack development concepts and industry-standard development practices.
